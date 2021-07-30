@@ -1,0 +1,18 @@
+expo install expo-av
+
+yarn add @gorhom/bottom-sheet@^3
+yarn add react-native-reanimated react-native-gesture-handler
+
+npm install -g @aws-amplify/cli
+amplify pull --appId d2tbiovplif71a --envName staging
+
+Visual Studio Code
+javascript
+react-native
+src
+/
+npm run-script build
+npm run-script start
+No
+
+yarn add aws-amplify aws-amplify-react-native @react-native-community/netinfo @react-native-async-storage/async-storage
